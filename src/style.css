@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(60, 166, 71);
 }
+#cardBottom{
+
+    transform: rotate(180deg);
+}
+#linkName{
+    color: white;
+}
+
